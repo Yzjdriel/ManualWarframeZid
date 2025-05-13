@@ -1,0 +1,176 @@
+{
+  "Earth": {
+    "starting": true,
+    "connects_to": [
+      "Venus",
+      "Mars",
+      "Lua",
+      "Earth Proxima"
+    ],
+    "requires": []
+  },
+  "Venus": {
+    "connects_to": [
+      "Mercury"
+    ],
+    "requires": "|Venus Junction Key|"
+  },
+  "Mars": {
+    "connects_to": [
+      "Deimos",
+      "Ceres",
+      "Phobos"
+    ],
+    "requires": "|Mars Junction Key|"
+  },
+  "Lua": {
+    "connects_to": [
+	  "Duviri"
+	],
+    "requires": "|Post-Second Dream|"
+  },
+  "Mercury": {
+    "connects_to": [],
+    "requires": "|Mercury Junction Key|"
+  },
+  "Deimos": {
+    "connects_to": [
+      "Cavia"
+    ],
+    "requires": []
+  },
+  "Ceres": {
+    "connects_to": [
+      "Jupiter"
+    ],
+    "requires": "|Ceres Junction Key|"
+  },
+  "Phobos": {
+    "connects_to": [
+      "Void_A"
+    ],
+    "requires": "|Phobos Junction Key|"
+  },
+  "Void_A": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Jupiter": {
+    "connects_to": [
+      "Europa",
+      "Saturn"
+    ],
+    "requires": "|Jupiter Junction Key|"
+  },
+  "Europa": {
+    "connects_to": [
+      "Void_B"
+    ],
+    "requires": "|Europa Junction Key|"
+  },
+  "Saturn": {
+    "connects_to": [
+      "Uranus"
+    ],
+    "requires": "|Saturn Junction Key|"
+  },
+  "Void_B": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Uranus": {
+    "connects_to": [
+      "Neptune"
+    ],
+    "requires": "|Uranus Junction Key| AND |Post-Archwing|"
+  },
+  "Neptune": {
+    "connects_to": [
+      "Void_C",
+      "Pluto"
+    ],
+    "requires": "|Neptune Junction Key|"
+  },
+  "Void_C": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Pluto": {
+    "connects_to": [
+      "Eris",
+      "Sedna"
+    ],
+    "requires": "|Pluto Junction Key|"
+  },
+  "Eris": {
+    "connects_to": [],
+    "requires": "|Eris Junction Key|"
+  },
+  "Sedna": {
+    "connects_to": [
+      "Void_D"
+    ],
+    "requires": "|Sedna Junction Key|"
+  },
+  "Void_D": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Kuva Fortress": {
+    "connects_to": [],
+    "requires": "|Kuva Fortress Access Codes| AND |Post-War Within| AND |Post-Archwing|"
+  },
+  "Zariman": {
+    "connects_to": [],
+    "requires": "|Zariman Access Codes| AND |Post-New War|"
+  },
+  "Earth Proxima": {
+    "starting": false,
+    "connects_to": [
+      "Venus Proxima"
+    ],
+    "requires": "|Post-Railjack|"
+  },
+  "Venus Proxima": {
+    "connects_to": [
+      "Saturn Proxima"
+    ],
+    "requires": "|Venus Junction Key| AND |Post-Railjack|"
+  },
+  "Saturn Proxima": {
+    "connects_to": [
+      "Neptune Proxima"
+    ],
+    "requires": "|Saturn Junction Key| AND |Post-Railjack|"
+  },
+  "Neptune Proxima": {
+    "connects_to": [
+      "Pluto Proxima"
+    ],
+    "requires": "|Neptune Junction Key| AND |Post-Railjack|"
+  },
+  "Pluto Proxima": {
+    "connects_to": [
+      "Veil Proxima"
+    ],
+    "requires": "|Pluto Junction Key| AND |Post-Railjack|"
+  },
+  "Veil Proxima": {
+    "connects_to": [],
+    "requires": "|Post-Second Dream| AND |Post-Railjack| AND |Post-New War|"
+  },
+  "Cavia": {
+    "connects_to": [
+	  "1999"
+	],
+    "requires": "|Post-New War|"
+  },
+  "Duviri": {
+    "connects_to": [],
+    "requires": "|Post-New War|"
+  },
+  "1999": {
+	"connects_to": [],
+  "requires": "|The Kalymos Sequence|"
+  }
+}
