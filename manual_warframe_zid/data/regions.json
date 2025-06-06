@@ -35,14 +35,13 @@
   },
   "Deimos": {
     "connects_to": [
-      "Cavia"
+      "Cavia",
+	  "Jupiter"
     ],
     "requires": []
   },
   "Ceres": {
-    "connects_to": [
-      "Jupiter"
-    ],
+    "connects_to": [],
     "requires": "|Ceres Junction Key|"
   },
   "Phobos": {

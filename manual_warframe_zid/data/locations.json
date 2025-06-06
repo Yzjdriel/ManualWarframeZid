@@ -1163,7 +1163,7 @@
     "requires": []
   },
   {
-    "name": "Cinxe",
+    "name": "Cinxia",
     "region": "Ceres",
     "category": [
       "Ceres",
@@ -3746,7 +3746,7 @@
   },
   {
 	"region": "Cavia",
-    "name": "Deep Archemedia",
+    "name": "Deep Archimedia",
     "category": [
       "Single",
 	  "Murmur",
@@ -3866,7 +3866,7 @@
     "requires": ""
   },
   {
-	"region": "1999",
+	"region": "Cavia",
     "name": "All the Murmur Objectives Complete",
     "category": [
 	  "Bonus"
@@ -4081,5 +4081,192 @@
 	  "Railjack"
     ],
     "requires": "|Post-New War|"
+  },
+  {
+	"region": "Earth",
+    "name": "An Earth Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus",
+    "name": "A Venus Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mercury",
+    "name": "A Mercury Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "A Lua Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mars",
+    "name": "A Mars Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Diemos",
+    "name": "A Deimos Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Ceres",
+    "name": "A Ceres Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Phobos",
+    "name": "A Phobos Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Jupiter",
+    "name": "A Jupiter Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Europa",
+    "name": "A Europa Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn",
+    "name": "A Saturn Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Uranus",
+    "name": "A Uranus Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "A Neptune Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "A Pluto Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "An Eris Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "A Sedna Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "The Yuvan's Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void",
+    "name": "An Empty Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth",
+    "name": "Obstacle Course Completed",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "All Nightmares Defeated",
+    "category": [
+      "Bonus",
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Ayatan Sculpture Found",
+    "category": [
+      "Ayatan",
+	  "Bonus"
+    ],
+    "requires": ""
   }
 ]
