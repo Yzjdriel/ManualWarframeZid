@@ -50,11 +50,16 @@ class WarframeZid(Game):
           weight=1,
         ),
         GameObjectiveTemplate(
+          label="Clear the entire Star Chart",
+          is_time_consuming=True,
+          is_difficult=True,#it's not, but it's such a slog that you're going to want an easy way to turn this objective off
+          weight=1,
+        ),
+        GameObjectiveTemplate(
           label="Clear NODES on PLANET",
           data={
             "NODES": (self.planetnodes, 1),
             "PLANET": (self.planets, 1),
-            "MATCHMAKING": (self.matchmaking, 1),
           },
           is_time_consuming=True,
           is_difficult=False,
@@ -72,7 +77,7 @@ class WarframeZid(Game):
           weight=10,
         ),
         GameObjectiveTemplate(
-          label="Clear NODES on PLANET while playing in MATCHMAKING using WARFRAME and WEAPONS",
+          label="Clear NODES on PLANET while playing in MATCHMAKING using only WARFRAME and WEAPONS",
           data={
             "NODES": (self.planetnodes, 1),
             "PLANET": (self.planets, 1),
@@ -106,7 +111,16 @@ class WarframeZid(Game):
           label="Clear PLANET Solo with WARFRAME",
           data={
             "PLANET": (self.planets, 1),
-            "WARFRAME": (self.warframes, 1)
+            "WARFRAME": (self.warframes, 1),
+          },
+          is_time_consuming=True,
+          is_difficult=False,
+          weight=15,
+        ),
+        GameObjectiveTemplate(
+          label="Clear PLANET Solo while entirely in Operator/Drifter mode",
+          data={
+            "PLANET": (self.planets, 1),
           },
           is_time_consuming=True,
           is_difficult=False,
@@ -115,7 +129,8 @@ class WarframeZid(Game):
         GameObjectiveTemplate(
           label="Collect the C Drop from ENDLESS mission on PLANET",
           data={
-            "ENDLESS", (self.endless, 1)
+            "ENDLESS", (self.endless, 1),
+            "PLANET", (self.planets, 1),
           },
           is_time_consuming=True,
           is_difficult=False,
@@ -155,16 +170,25 @@ class WarframeZid(Game):
           weight=5,
         ),
         GameObjectiveTemplate(
+          label="Replay The New War",
+          is_time_consuming=True,
+          is_difficult=True,
+          weight=2,
+        ),
+        GameObjectiveTemplate(
           label="Complete SINGLENODE",
           data={
+            "SINGLENODE": (self.allnodes, 1)
           },
           is_time_consuming=False,
           is_difficult=False,
           weight=100,
         ),
         GameObjectiveTemplate(
-          label="Complete NUMBER rotations in a single mission on ENDLESSNODE",
+          label="Complete ROTATIONS in a single mission on ENDLESSNODE",
           data={
+            "ROTATIONS": (self.rotations, 1),
+            "ENDLESSNODE": (self.endlessnodes),
           },
           is_time_consuming=False,
           is_difficult=False,
@@ -173,19 +197,49 @@ class WarframeZid(Game):
         GameObjectiveTemplate(
           label="Farm for WARFRAME",
           data={
-            "WARFRAME": (self.warframes, 1)
+            "WARFRAME": (self.warframes, 1),
           },
           is_time_consuming=True,
           is_difficult=False,
           weight=10,
         ),
+        GameObjectiveTemplate(
+          label="Unveil a Riven Mod",
+          is_time_consuming=True,
+          is_difficult=True,
+          weight=5,
+        ),
+        GameObjectiveTemplate(
+          label="Pet Kalymos (or your cat, I won't judge you)",
+          is_time_consuming=False,
+          is_difficult=False,
+          weight=50,
+        ),
+        GameObjectiveTemplate(
+          label="Complete 3 Syndicate missions",
+          is_time_consuming=False,
+          is_difficult=False,
+          weight=20,
+        ),
+        GameObjectiveTemplate(
+          label="Complete an Invasion",
+          is_time_consuming=False,
+          is_difficult=False,
+          weight=20,
+        ),
+        GameObjectiveTemplate(
+          label="Complete all Daily tasks from Nora",
+          is_time_consuming=False,
+          is_difficult=False
+          weight=20,
+        ),
+        GameObjectiveTemplate(
+          label="Slay an Orowyrm",
+          is_time_consuming=True,
+          is_difficult=False,
+          weight=20,
       ]
     #enddef
-
-    #Option Properties
-    @property
-    def include_hard_challenges(self) -> bool:
-      return bool(self.archipelago_options.include_hard_challenges.value)
 
     @property
     def manual_installed(self) -> bool:
@@ -210,17 +264,33 @@ class WarframeZid(Game):
         "a Sparring Weapon",
         "a Polearm",
         "a Exalted Weapon",
-        "a Modular Weapon"
+        "a Modular Weapon",
       ]
     #enddef
 
+    def rotations() -> List[]:
+      return [
+        "one Rotation",
+        "two Rotations",
+        "three Rotations",
+        "four Rotations",
+        "five Rotations",
+        "six Rotations",
+        "seven Rotations",
+        "eight Rotations",
+        "two C drops",
+        "five A drops",
+        "three B drops",
+      ]
+    #enddef
+    
     def eras() -> List[]:
       return [
         "a Lith",
         "a Meso",
         "a Neo",
         "an Axi",
-        "a Requium"
+        "a Requium",
       ]
     #enddef
 
@@ -229,7 +299,7 @@ class WarframeZid(Game):
         "a Defense",
         "an Interception",
         "an Excavation",
-        "a Survival"
+        "a Survival",
       ]
     #enddef
 
@@ -638,7 +708,7 @@ class WarframeZid(Game):
       return [
         "Solo Mode",
         "a Premade Group/Friends Only/Invite Only",
-        "Pubs"
+        "Pubs",
       ]
     #enddef
     
@@ -703,7 +773,7 @@ class WarframeZid(Game):
         "Wukong",
         "Xaku",
         "Yareli",
-        "Zephyr"
+        "Zephyr",
       ]
     #enddef
 #end classdef
@@ -714,5 +784,5 @@ class ManualInstalled(Toggle):
   Indicates whether you want to use Zid's Warframe Manual for some of the generated options.
   WARNING: DO NOT USE IN SYNCHRONOUS SESSIONS.
   """
-  display_name="Include Objectives from Zid's Manual (Separate Installation Required) (May cause objectives to take upwards of 24 hours to complete)"
+  display_name="Include Objectives from Zid's Manual (Separate Installation Required) (WARNING: May cause objectives to take upwards of 24 hours to complete!)"
 #end classdef
