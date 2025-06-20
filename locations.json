@@ -873,7 +873,6 @@
   {
     "name": "Effervo",
     "region": "Cavia",
-	"victory": true,
     "category": [
       "Cavia",
 	  "Single",
@@ -2016,7 +2015,7 @@
     "name": "The Index",
     "category": [
       "Neptune",
-	  "Endless,",
+	  "Endless",
 	  "Index",
 	  "Corpus",
 	  "Bonus"
@@ -3576,7 +3575,8 @@
     "category": [
       "Single",
 	  "Treasure",
-	  "Infested"
+	  "Infested",
+	  "Maroo"
     ],
     "requires": ""
   },
@@ -3586,7 +3586,8 @@
     "category": [
       "Single",
 	  "Survival",
-	  "Infested"
+	  "Infested",
+	  "Clem"
     ],
     "requires": ""
   },
@@ -4053,7 +4054,8 @@
   {
 	"region": "1999",
     "name": "Victory Plaza",
-    "category": [
+    "victory": true,
+	"category": [
       "Single",
 	  "Scaldra",
 	  "Assassination",
@@ -4265,7 +4267,8 @@
     "name": "Ayatan Sculpture Found",
     "category": [
       "Ayatan",
-	  "Bonus"
+	  "Bonus",
+	  "Treasure"
     ],
     "requires": ""
   }
