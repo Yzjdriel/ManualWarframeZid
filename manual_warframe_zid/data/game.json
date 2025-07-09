@@ -3,5 +3,6 @@
   "game": "Warframe",
   "creator": "Zid",
   "filler_item_name": "Decree",
-  "starting_items": []
+  "starting_items": [],
+  "death_link": true
 }
