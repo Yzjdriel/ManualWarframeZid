@@ -1,0 +1,4275 @@
+[
+  {
+    "region": "Earth",
+    "name": "E Prime",
+    "category": [
+      "Earth",
+	  "Single",
+      "Exterminate",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mariana",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Exterminate",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mantle",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Capture",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lith",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Endless",
+      "Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cambria",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Spy",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gaia",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Endless",
+      "Interception",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pacific",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Rescue",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cetus",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Social"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Saya's Visions",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plains of Eidolon",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Open World",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eurasia",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Mobile Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Everest",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Endless",
+      "Excavation",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coba",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Endless",
+      "Defense",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Cervantes",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Erpo",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Mobile Defense",
+      "Archwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oro",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Single",
+      "Boss",
+      "Grineer"
+    ],
+    "requires": "|Vay Hek Key|:3"
+  },
+  {
+    "name": "Tikal",
+    "region": "Earth",
+    "category": [
+      "Earth",
+	  "Endless",
+      "Excavation",
+      "Dark Sector",
+      "Infested",
+      "Bonus"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "E Gate",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Exterminate",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "V Prime",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Endless",
+      "Survival",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Romula",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Endless",
+      "Defense",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Tessera",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Endless",
+      "Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Linea",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Rescue",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ishtar",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Sabotage",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Montes",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Exterminate",
+      "Archwing"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Malva",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Venera",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Capture",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Unda",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Spy",
+      "Corpus",
+      "Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fortuna",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Social"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orb Vallis",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Open World",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kiliken",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Endless",
+      "Excavation",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cytherean",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Endless",
+      "Interception",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aphrodite",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Mobile Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fossa",
+    "region": "Venus",
+    "category": [
+      "Venus",
+	  "Single",
+      "Boss",
+      "Corpus"
+    ],
+    "requires": "|Jackal Key|:3"
+  },
+  {
+    "name": "M Prime",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Exterminate",
+      "Crossfire",
+      "Grineer",
+      "Infested"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Terminus",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Sabotage",
+      "Crossfire",
+      "Grineer",
+      "Infested",
+      "Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lares",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Endless",
+      "Defense",
+      "Infested"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boethius",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Mobile Defense",
+      "Infested"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Apollodorus",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Endless",
+      "Survival",
+      "Infested"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Caloris",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Rescue",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elion",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Capture",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Suisei",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Spy",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Odin",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Endless",
+      "Interception",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tolstoj",
+    "region": "Mercury",
+    "category": [
+      "Mercury",
+	  "Single",
+      "Boss",
+      "Grineer"
+    ],
+    "requires": "|Captain Vor Key|:3"
+  },
+  {
+    "name": "Hellas",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Exterminate",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tharsis",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Mobile Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spear",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arval",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Spy",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ares",
+    "region": "Mars",
+    "category": [
+      "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Martialis",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Rescue",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Vallis",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Mobile Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "War",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Boss",
+      "Grineer"
+    ],
+    "requires": "|Lech Kril Key|:3"
+  },
+  {
+    "name": "Kadesh",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Defense",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Ara",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Capture",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Syrtis",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Exterminate",
+      "Archwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Alator",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Interception",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ultor",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Exterminate",
+      "Crossfire",
+      "Grineer",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wahiba",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Augustus",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Excavation",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Olympus",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Disruption",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tyana Pass",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Endless",
+      "Mirror Defense",
+      "Grineer",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gradivus",
+    "region": "Mars",
+    "category": [
+      "Mars",
+	  "Single",
+      "Sabotage",
+      "Corpus",
+      "Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Horend",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Single",
+      "Capture",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Phlegyas",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Single",
+      "Exterminate",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cambion Drift",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Open World",
+      "Infested"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Necralisk",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Social"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Formido",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Single",
+      "Sabotage",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hyf",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Endless",
+      "Defense",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dirus",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Single",
+      "Mobile Defense",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Magnacidium",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Single",
+      "Boss",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": "|Lephantis Key|:3"
+  },
+  {
+    "name": "Boss Invasion",
+    "category": [
+      "Single",
+      "Boss",
+      "Infested"
+    ],
+    "requires": "|Phorid Key|:3"
+  },
+  {
+    "name": "Terrorem",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Endless",
+      "Survival",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Exequias",
+    "region": "Deimos",
+    "category": [
+      "Deimos",
+	  "Single",
+      "Boss",
+      "Infested",
+      "Derelict"
+    ],
+    "requires": "|Zealoid Prelate Key|:3"
+  },
+  {
+    "name": "Sanctum Anatomica",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Social"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Armatus",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Endless",
+      "Disruption",
+      "Murmur"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nex",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Single",
+      "Exterminate",
+      "Murmur"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Persto",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Endless",
+      "Survival",
+      "Murmur"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cambire",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Endless",
+      "Alchemy",
+      "Murmur"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Munio",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Endless",
+      "Mirror Defense",
+      "Murmur"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Effervo",
+    "region": "Cavia",
+    "category": [
+      "Cavia",
+	  "Single",
+      "Boss",
+      "Murmur"
+    ],
+    "requires": "|Whispers in the Walls|:3"
+  },
+  {
+    "name": "Roche",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Exterminate",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sharpless",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Mobile Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gulliver",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Endless",
+      "Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kepler",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Rush",
+      "Corpus",
+      "Archwing"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Zeugma",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Memphis",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Endless",
+      "Defection",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Shklovsky",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Spy",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Skyresh",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Capture",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monolith",
+    "region": "Phobos",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Rescue",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Phobos",
+    "name": "Iliad",
+    "category": [
+      "Phobos",
+	  "Single",
+      "Boss",
+      "Corpus"
+    ],
+    "requires": "|The Sergeant Key|:3"
+  },
+  {
+    "region": "Phobos",
+    "name": "Stickney",
+    "category": [
+      "Phobos",
+	  "Endless",
+      "Survival",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Void_A",
+    "name": "Teshub",
+    "category": [
+      "Single",
+      "Exterminate",
+      "Corrupted",
+      "Void"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Void_A",
+    "name": "Hepit",
+    "category": [
+      "Single",
+      "Capture",
+      "Corrupted",
+      "Void"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Void_A",
+    "name": "Taranis",
+    "category": [
+      "Endless",
+      "Defense",
+      "Corrupted",
+      "Void"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pallas",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Exterminate",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bode",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Spy",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Casta",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Seimeni",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Endless",
+      "Defense",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "region": "Ceres",
+    "name": "Lex",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Capture",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gabii",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Ludi",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Hijack",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ker",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Ceres",
+    "name": "Draco",
+    "category": [
+      "Ceres",
+	  "Endless",
+      "Survival",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kiste",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Mobile Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Thon",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cinxia",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Endless",
+      "Interception",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Ceres",
+    "name": "Nuovo",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Rescue",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Exta",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Boss",
+      "Grineer"
+    ],
+    "requires": "|Captain Vor Key|:3 AND |Lech Kril Key|:3"
+  },
+  {
+    "name": "Abyssal Zone",
+    "region": "Ceres",
+    "category": [
+      "Ceres",
+	  "Single",
+      "Exterminate",
+      "Grineer",
+      "Bonus",
+      "Defixios"
+    ],
+    "requires": "|Abyssal Beacon|"
+  },
+  {
+    "name": "Metis",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Rescue",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Elara",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Endless",
+      "Survival",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Adrastea",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Sabotage",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Io",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Endless",
+      "Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ganymede",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Endless",
+      "Disruption",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ropalolyst",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Boss",
+      "Corpus",
+      "Sentient"
+    ],
+    "requires": "|Ropalolyst Key|:3"
+  },
+  {
+    "name": "Themisto",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Boss",
+      "Corpus",
+      "Bonus"
+    ],
+    "requires": "|Alad V Key|:3"
+  },
+  {
+    "name": "Thebe",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Sabotage",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Jupiter",
+    "name": "Galilea",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Sabotage",
+      "Corpus",
+      "Archwing"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carpo",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Exterminate",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carme ",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Mobile Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ananke",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Capture",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Callisto",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Endless",
+      "Interception",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cameria",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Amalthea",
+    "region": "Jupiter",
+    "category": [
+      "Jupiter",
+	  "Single",
+      "Spy",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Jupiter",
+    "name": "Sinai",
+    "category": [
+      "Jupiter",
+	  "Endless",
+      "Defense",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Morax",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Single",
+      "Mobile Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ose",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Endless",
+      "Interception",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sorath",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Single",
+      "Hijack",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Paimon",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Endless",
+      "Defense",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Baal",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Single",
+      "Exterminate",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cholistan",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Endless",
+      "Excavation",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Orias",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Single",
+      "Rescue",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Valac",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Single",
+      "Spy",
+      "Crossfire",
+      "Corpus",
+      "Infested",
+      "Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Valefor",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Endless",
+      "Excavation",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kokabiel",
+    "region": "Europa",
+    "category": [
+      "Europa",
+	  "Single",
+      "Sabotage",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Europa",
+    "name": "Abaddon",
+    "category": [
+      "Europa",
+	  "Single",
+      "Capture",
+      "Corpus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Europa",
+    "name": "Larzac",
+    "category": [
+      "Europa",
+	  "Endless",
+      "Defense",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "region": "Europa",
+    "name": "Naamah",
+    "category": [
+      "Europa",
+	  "Single",
+      "Boss",
+      "Corpus"
+    ],
+    "requires": "|Raptor Key|:3"
+  },
+  {
+    "region": "Europa",
+    "name": "Armaros",
+    "category": [
+      "Europa",
+	  "Single",
+      "Exterminate",
+      "Crossfire",
+      "Corpus",
+      "Infested"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Void_B",
+    "name": "Tiwaz",
+    "category": [
+      "Single",
+      "Mobile Defense",
+      "Corrupted",
+      "Void"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stribog",
+    "region": "Void_B",
+    "category": [
+      "Single",
+      "Sabotage",
+      "Corrupted",
+      "Void"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ani",
+    "region": "Void_B",
+    "category": [
+      "Endless",
+      "Survival",
+      "Corrupted",
+      "Void"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Saturn",
+    "name": "Cassini",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Capture",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Numa",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Rescue",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Saturn",
+    "name": "Pandora",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Pursuit",
+      "Grineer",
+      "Archwing",
+      "Bonus"
+    ],
+    "requires": "|Post-Archwing|"
+  },
+  {
+    "region": "Saturn",
+    "name": "Caracol",
+    "category": [
+      "Saturn",
+	  "Endless",
+      "Defection",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Enceladus",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Titan",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Survival",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Helene",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Endless",
+      "Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dione",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Spy",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Telesto",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Exterminate",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anthe",
+    "region": "Saturn",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Rescue",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Saturn",
+    "name": "Rhea",
+    "category": [
+      "Saturn",
+	  "Endless",
+      "Interception",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Saturn",
+    "name": "Piscinas",
+    "category": [
+      "Saturn",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "region": "Saturn",
+    "name": "Keeler",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Mobile Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Saturn",
+    "name": "Calypso",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Saturn",
+    "name": "Tethys",
+    "category": [
+      "Saturn",
+	  "Single",
+      "Boss",
+      "Grineer"
+    ],
+    "requires": "|Sargas Ruk Key|:3"
+  },
+  {
+    "name": "Sycorax",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Exterminate",
+      "Sharkwing",
+      "Grineer",
+	  "Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Caliban",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Rescue",
+      "Sharkwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Umbriel",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Endless",
+      "Interception",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Puck",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Exterminate",
+      "Sharkwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Assur",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Endless",
+      "Survival",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Ariel",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Capture",
+      "Sharkwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Ophelia",
+    "category": [
+      "Uranus",
+      "Endless",
+      "Survival",
+      "Sharkwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cressida",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Mobile Defense",
+      "Sharkwing",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Caelus",
+    "category": [
+      "Uranus",
+	  "Endless",
+      "Interception",
+      "Grineer",
+      "Archwing"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Ur",
+    "category": [
+      "Uranus",
+	  "Endless",
+      "Disruption",
+      "Dark Sector",
+      "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+    "name": "Stephano",
+    "region": "Uranus",
+    "category": [
+      "Uranus",
+	  "Endless",
+      "Defense",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Desdemona",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Sabotage",
+      "Grineer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Brutus",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Ascension",
+      "Grineer",
+      "Bonus"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Rosalind",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Spy",
+      "Grineer",
+      "Sharkwing"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Uranus",
+    "name": "Titania",
+    "category": [
+      "Uranus",
+	  "Single",
+      "Boss",
+      "Grineer",
+      "Sharkwing",
+      "Bonus"
+    ],
+    "requires": "|Tyl Regor Key|:3"
+  },
+  {
+	"region": "Neptune",
+    "name": "Galatea",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Capture",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Triton",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Rescue",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Larissa",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Mobile Defense",
+	  "Corpus",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Neso",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Exterminate",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Salacia",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Mobile Defense",
+	  "Corpus",
+	  "Archwing"
+    ],
+    "requires": "|Post-Archwing|"
+  },
+  {
+	"region": "Neptune",
+    "name": "Yursa",
+    "category": [
+      "Neptune",
+	  "Endless",
+	  "Defection",
+	  "Dark Sector",
+	  "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Neptune",
+    "name": "Nereid",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Spy",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "The Index",
+    "category": [
+      "Neptune",
+	  "Endless",
+	  "Index",
+	  "Corpus",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Despina",
+    "category": [
+      "Neptune",
+	  "Endless",
+	  "Excavation",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Sao",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Sabotage",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Proteus",
+    "category": [
+      "Neptune",
+	  "Endless",
+	  "Defense",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Kelashin",
+    "category": [
+      "Neptune",
+	  "Endless",
+	  "Survival",
+	  "Dark Sector",
+	  "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Neptune",
+    "name": "Laomedeia",
+    "category": [
+      "Neptune",
+	  "Endless",
+	  "Disruption",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "Psamathe",
+    "category": [
+      "Neptune",
+	  "Single",
+	  "Boss",
+	  "Corpus"
+    ],
+    "requires": "|Hyena Pack Key|:3"
+  },
+  {
+	"region": "Void_C",
+    "name": "Ukko",
+    "category": [
+      "Single",
+	  "Capture",
+	  "Corrupted",
+	  "Void"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Oxomoco",
+    "category": [
+      "Single",
+	  "Exterminate",
+	  "Corrupted",
+	  "Void"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Belenus",
+    "category": [
+      "Endless",
+	  "Defense",
+	  "Corrupted",
+	  "Void"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Hydra",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Capture",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Narcissus",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Exterminate",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Cypress",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Sabotage",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Cerberus",
+    "category": [
+      "Pluto",
+	  "Endless",
+	  "Interception",
+	  "Corpus",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Palus",
+    "category": [
+      "Pluto",
+	  "Endless",
+	  "Survival",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Hades",
+    "category": [
+     "Pluto",
+	 "Single",
+	  "Boss",
+	  "Corpus",
+	  "Bonus"
+    ],
+    "requires": "|Ambulas Key|:3 AND |Animo Nav Beacon|"
+  },
+  {
+	"region": "Pluto",
+    "name": "Outer Terminus",
+    "category": [
+      "Pluto",
+	  "Endless",
+	  "Defense",
+	  "Corpus",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Sechura",
+    "category": [
+      "Pluto",
+	  "Endless",
+	  "Defense",
+	  "Dark Sector",
+	  "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Pluto",
+    "name": "Minthe",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Mobile Defense",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Oceanum",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Spy",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Acheron",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Exterminate",
+	  "Corpus",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Regna",
+    "category": [
+      "Pluto",
+	  "Single",
+	  "Rescue",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "Hieracon",
+    "category": [
+      "Pluto",
+	  "Endless",
+	  "Excavation",
+	  "Dark Sector",
+	  "Infested",
+	  "Bonus"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Eris",
+    "name": "Naeglar",
+    "category": [
+      "Eris",
+	  "Single",
+	  "Hive",
+	  "Sabotage",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Brugia",
+    "category": [
+      "Eris",
+	  "Single",
+	  "Rescue",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Saxis",
+    "category": [
+      "Eris",
+	  "Single",
+	  "Exterminate",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Kala-Azar",
+    "category": [
+      "Eris",
+	  "Endless",
+	  "Defense",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Xini",
+    "category": [
+      "Eris",
+	  "Endless",
+	  "Interception",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Zabala",
+    "category": [
+      "Eris",
+	  "Endless",
+	  "Survival",
+	  "Dark Sector",
+	  "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Eris",
+    "name": "Isos",
+    "category": [
+      "Eris",
+	  "Single",
+	  "Capture",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Oestrus",
+    "category": [
+      "Eris",
+	  "Endless",
+	  "Salvage",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Solium",
+    "category": [
+      "Eris",
+	  "Single",
+	  "Mobile Defense",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Nimus",
+    "category": [
+      "Eris",
+	  "Endless",
+	  "Survival",
+	  "Infested"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Akkad",
+    "category": [
+      "Eris",
+	  "Endless",
+	  "Defense",
+	  "Dark Sector",
+	  "Infested",
+	  "Bonus"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Eris",
+    "name": "Jordas Golem",
+    "category": [
+      "Eris",
+	  "Single",
+	  "Boss",
+	  "Infested"
+    ],
+    "requires": "|Jordas Golem Key|:3"
+  },
+  {
+	"region": "Sedna",
+    "name": "Naga",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Rescue",
+	  "Grineer",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Rusalka",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Sabotage",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Berehynia",
+    "category": [
+      "Sedna",
+	  "Endless",
+	  "Interception",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Sangeru",
+    "category": [
+      "Sedna",
+	  "Endless",
+	  "Defense",
+	  "Dark Sector",
+	  "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Sedna",
+    "name": "Hydron",
+    "category": [
+      "Sedna",
+	  "Endless",
+	  "Defense",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Kappa",
+    "category": [
+      "Sedna",
+	  "Endless",
+	  "Disruption",
+	  "Grineer",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Amarna",
+    "category": [
+      "Sedna",
+	  "Endless",
+	  "Survival",
+	  "Dark Sector",
+	  "Infested"
+    ],
+    "requires": "|Dark Sector Key|"
+  },
+  {
+	"region": "Sedna",
+    "name": "Adaro",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Exterminate",
+	  "Grineer",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Selkie",
+    "category": [
+      "Sedna",
+	  "Endless",
+	  "Survival",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Charybdis",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Mobile Defense",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Kelpie",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Spy",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Marid",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Hijack",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Rathuum",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Arena",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "Merrow",
+    "category": [
+      "Sedna",
+	  "Single",
+	  "Boss",
+	  "Grineer",
+	  "Bonus"
+    ],
+    "requires": "|Kela de Thaym Key|:3 AND |5 Judgement Points|:5"
+  },
+  {
+	"region": "Void_D",
+    "name": "Aten",
+    "category": [
+      "Single",
+	  "Mobile Defense",
+	  "Corrupted",
+	  "Void"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Marduk",
+    "category": [
+      "Single",
+	  "Sabotage",
+	  "Corrupted",
+	  "Void"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Mithra",
+    "category": [
+      "Endless",
+	  "Interception",
+	  "Corrupted",
+	  "Void"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Mot",
+    "category": [
+      "Endless",
+	  "Survival",
+	  "Corrupted",
+	  "Void",
+	  "Bonus",
+	  "Bonus Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Plato",
+    "category": [
+      "Lua",
+	  "Single",
+	  "Exterminate",
+	  "Crossfire",
+	  "Grineer",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Zeipel",
+    "category": [
+      "Lua",
+	  "Single",
+	  "Rescue",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Tycho",
+    "category": [
+      "Lua",
+	  "Endless",
+	  "Survival",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Pavlov",
+    "category": [
+      "Lua",
+	  "Single",
+	  "Spy",
+	  "Crossfire",
+	  "Grineer",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Apollo",
+    "category": [
+      "Lua",
+	  "Endless",
+	  "Disruption",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Stöfler",
+    "category": [
+      "Lua",
+	  "Endless",
+	  "Defense",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Grimaldi",
+    "category": [
+      "Lua",
+	  "Single",
+	  "Mobile Defense",
+	  "Grineer"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Copernicus",
+    "category": [
+      "Lua",
+	  "Single",
+	  "Capture",
+	  "Corpus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Yuvarium",
+    "category": [
+      "Lua",
+	  "Endless",
+	  "Survival",
+	  "Conjunction",
+	  "Corrupted"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "Circulus",
+    "category": [
+      "Lua",
+	  "Endless",
+	  "Survival",
+	  "Conjunction",
+	  "Corrupted",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Dakata",
+    "category": [
+      "Single",
+	  "Exterminate",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Koro",
+    "category": [
+      "Single",
+	  "Assault",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Rotuma",
+    "category": [
+      "Single",
+	  "Mobile Defense",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Garus",
+    "category": [
+      "Single",
+	  "Rescue",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Tamu",
+    "category": [
+      "Endless",
+	  "Disruption",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Nabuk",
+    "category": [
+      "Endless",
+	  "Defense",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Pago",
+    "category": [
+      "Single",
+	  "Spy",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "Taveuni",
+    "category": [
+      "Endless",
+	  "Survival",
+	  "Grineer",
+	  "Kuva",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Zariman",
+    "name": "Chrysalith",
+    "category": [
+      "Zariman",
+	  "Social"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Zariman",
+    "name": "Everview Arc",
+    "category": [
+      "Zariman",
+	  "Endless",
+	  "Void Flood"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Zariman",
+    "name": "Halako Perimeter",
+    "category": [
+      "Zariman",
+	  "Single",
+	  "Exterminate"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Zariman",
+    "name": "Oro Works",
+    "category": [
+      "Zariman",
+	  "Endless",
+	  "Void Armageddon"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Zariman",
+    "name": "The Greenway",
+    "category": [
+      "Single",
+	  "Mobile Defense",
+	  "Zariman"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Zariman",
+    "name": "Tuvul Commons",
+    "category": [
+      "Endless",
+	  "Void Cascade",
+	  "Zariman"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Sorrowful Soprano",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Luscinia",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Fearful Conspirator",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Sythel",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Harbinger of Joy",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Mathila",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Prince of Fire",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Lodun",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Covetous Courtier",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Bombastine",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "Kullervo",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Boss",
+	  "Technocyte"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Circuit",
+    "category": [
+      "Duviri",
+	  "Endless",
+	  "Circuit",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "Paragrimm's Puzzle",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Enigma",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "The Merchant",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Acrithis",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "Komi",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Komi",
+	  "Dax",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Duviri",
+    "name": "Shawzin Hero",
+    "category": [
+      "Duviri",
+	  "Single",
+	  "Shawzin",
+	  "Dax",
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "The Once and Future Badass",
+    "category": [
+      "Single",
+	  "Nora",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "Sortie",
+    "category": [
+      "Single",
+	  "Sortie",
+	  "Technocyte"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Archon",
+    "category": [
+      "Single",
+	  "Nora",
+	  "Sentient"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Arbitration",
+    "category": [
+      "Endless",
+	  "Arbitration",
+	  "Hexis"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Steel Path",
+    "category": [
+      "Single",
+	  "Teshin",
+	  "Dax"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth",
+    "name": "1999",
+    "category": [
+      "Single",
+	  "Timeline",
+	  "Technocyte"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "Syndicate A",
+    "category": [
+      "Single",
+	  "Syndicate"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "Syndicate B",
+    "category": [
+      "Single",
+	  "Syndicate"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "Syndicate C",
+    "category": [
+      "Single",
+	  "Syndicate"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth Proxima",
+    "name": "Sover Strait",
+    "category": [
+      "Earth Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth Proxima",
+    "name": "Iota Temple",
+    "category": [
+      "Earth Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth Proxima",
+    "name": "Ogal Cluster",
+    "category": [
+      "Earth Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth Proxima",
+    "name": "Korm's Belt",
+    "category": [
+      "Earth Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth Proxima",
+    "name": "Bendar Cluster",
+    "category": [
+      "Earth Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus Proxima",
+    "name": "Bifrost Echo",
+    "category": [
+      "Venus Proxima",
+	  "Single",
+	  "Exterminate",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus Proxima",
+    "name": "Beacon Shield Ring",
+    "category": [
+      "Venus Proxima",
+	  "Single",
+	  "Volatile",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus Proxima",
+    "name": "Orvin-Haarc",
+    "category": [
+      "Venus Proxima",
+	  "Single",
+	  "Spy",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus Proxima",
+    "name": "Luckless Expanse",
+    "category": [
+      "Venus Proxima",
+	  "Endless",
+	  "Survival",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus Proxima",
+    "name": "Vesper Strait",
+    "category": [
+      "Venus Proxima",
+	  "Endless",
+	  "Orphix",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Venus Proxima",
+    "name": "Falling Glory",
+    "category": [
+      "Venus Proxima",
+	  "Endless",
+	  "Defense",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn Proxima",
+    "name": "Vand Cluster",
+    "category": [
+      "Saturn Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn Proxima",
+    "name": "Lupal Pass",
+    "category": [
+      "Saturn Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn Proxima",
+    "name": "Mordo Cluster",
+    "category": [
+      "Saturn Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn Proxima",
+    "name": "Nodo Gap",
+    "category": [
+      "Saturn Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn Proxima",
+    "name": "Kasio's Rest",
+    "category": [
+      "Saturn Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Grineer",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune Proxima",
+    "name": "Sovereign Grasp",
+    "category": [
+      "Neptune Proxima",
+	  "Single",
+	  "Volatile",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune Proxima",
+    "name": "Brom Cluster",
+    "category": [
+      "Neptune Proxima",
+	  "Single",
+	  "Spy",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune Proxima",
+    "name": "Mammon's Prospect",
+    "category": [
+      "Neptune Proxima",
+	  "Endless",
+	  "Orphix",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Neptune Proxima",
+    "name": "Enkidu Ice Drifts",
+    "category": [
+      "Neptune Proxima",
+	  "Endless",
+	  "Survival",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune Proxima",
+    "name": "Nu-Gua Mines",
+    "category": [
+      "Neptune Proxima",
+	  "Single",
+	  "Exterminate",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune Proxima",
+    "name": "Arva Vector",
+    "category": [
+      "Neptune Proxima",
+	  "Endless",
+	  "Defense",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Peregrine Axis",
+    "category": [
+      "Pluto Proxima",
+	  "Single",
+	  "Spy",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Khufu Envoy",
+    "category": [
+      "Pluto Proxima",
+	  "Endless",
+	  "Orphix",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Seven Sirens",
+    "category": [
+      "Pluto Proxima",
+	  "Single",
+	  "Exterminate",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Obol Crossing",
+    "category": [
+      "Pluto Proxima",
+	  "Endless",
+	  "Defense",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Fenton's Field",
+    "category": [
+      "Pluto Proxima",
+	  "Endless",
+	  "Survival",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Profit Margin",
+    "category": [
+      "Pluto Proxima",
+	  "Single",
+	  "Volatile",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Void Storm",
+    "category": [
+      "Pluto Proxima",
+	  "Single",
+	  "Void Storm",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "Ice Mine",
+    "category": [
+      "Pluto Proxima",
+	  "Single",
+	  "Side Objective",
+	  "Corpus",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Calabash",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Exterminate",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Numina",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Volatile",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Arc Silver",
+    "category": [
+      "Veil Proxima",
+	  "Endless",
+	  "Defense",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Erato",
+    "category": [
+      "Veil Proxima",
+	  "Endless",
+	  "Orphix",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Lu-Yan",
+    "category": [
+      "Veil Proxima",
+	  "Endless",
+	  "Survival",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Sabmir Cloud",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Spy",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Flexa",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "H-2 Cloud",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "R-9 Cloud",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "Nsu Grid",
+    "category": [
+      "Veil Proxima",
+	  "Single",
+	  "Skirmish",
+	  "Sentient",
+	  "Railjack"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mars",
+    "name": "Maroo's Treasure Hunt",
+    "category": [
+      "Single",
+	  "Treasure",
+	  "Infested",
+	  "Maroo"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth",
+    "name": "Clem",
+    "category": [
+      "Single",
+	  "Survival",
+	  "Infested",
+	  "Clem"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_A",
+    "name": "Invasion A",
+    "category": [
+      "Single",
+	  "Invasion"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_A",
+    "name": "Invasion B",
+    "category": [
+      "Single",
+	  "Invasion"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_A",
+    "name": "Invasion C",
+    "category": [
+      "Single",
+	  "Invasion"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Lith Fissure",
+    "category": [
+      "Single",
+	  "Fissure"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Meso Fissure",
+    "category": [
+      "Single",
+	  "Fissure"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Neo Fissure",
+    "category": [
+      "Single",
+	  "Fissure"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Axi Fissure",
+    "category": [
+      "Single",
+	  "Fissure"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Requiem Fissure",
+    "category": [
+      "Single",
+	  "Fissure"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Void_C",
+    "name": "Omnia Fissure",
+    "category": [
+      "Single",
+	  "Fissure"
+    ],
+    "requires": "|Post-New War|"
+  },
+  {
+	"region": "Void_D",
+    "name": "Kuva Flood",
+    "category": [
+      "Endless",
+	  "Grineer",
+	  "Kuva"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Uranus",
+    "name": "Natah",
+    "category": [
+      "Single",
+	  "Quest"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Uranus",
+    "name": "The Second Dream",
+    "category": [
+      "Single",
+	  "Quest"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Uranus",
+    "name": "The War Within",
+    "category": [
+      "Single",
+	  "Quest"
+    ],
+    "requires": "|Post-Second Dream|"
+  },
+  {
+	"region": "Uranus",
+    "name": "Post-New War",
+    "category": [
+      "Single",
+	  "Quest"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Uranus",
+    "name": "The New Strange",
+    "category": [
+      "Single",
+	  "Simaris",
+	  "Sanctuary"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Deimos",
+    "name": "Helminth",
+    "category": [
+      "Single"
+    ],
+    "requires": "|Post-Second Dream|"
+  },
+  {
+	"region": "Deimos",
+    "name": "Isolation Vault",
+    "category": [
+      "Single",
+	  "IsoVault"
+    ],
+    "requires": "|Post-War Within|"
+  },
+  {
+	"region": "Cavia",
+    "name": "Deep Archimedia",
+    "category": [
+      "Single",
+	  "Murmur",
+	  "Bonus"
+    ],
+    "requires": "|Post-New War|"
+  },
+  {
+	"region": "Void_B",
+    "name": "15th Bonus Objective Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn",
+    "name": "Half the Grineer Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Uranus",
+    "name": "Half the Corpus Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "Half the Infested Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Europa",
+    "name": "Half the Non-Endless Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Europa",
+    "name": "Half the Endless Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "All Bonus Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn Proxima",
+    "name": "All the Grineer Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto Proxima",
+    "name": "All the Corpus Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "All the Infested Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "All the Non-Endless Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "All the Endless Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "All the Scaldra Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },{
+	"region": "1999",
+    "name": "All the Techrot Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Cavia",
+    "name": "All the Murmur Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Veil Proxima",
+    "name": "All the Railjack Objectives Complete",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Rare Cache Found",
+    "category": [
+	  "Cache"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Sabotage Cache Sweep",
+    "category": [
+	  "Cache"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_C",
+    "name": "Silver Grove",
+    "category": [
+	  "Earth"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "Stalker Defeated",
+    "category": [
+	  "Boss"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "Corrupted Vor Defeated",
+    "category": [
+	  "Boss"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_A",
+    "name": "Acolyte Defeated",
+    "category": [
+	  "Boss"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_B",
+    "name": "2 Acolytes Defeated",
+    "category": [
+	  "Boss"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "5 Acolytes Defeated",
+    "category": [
+	  "Boss"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mercury",
+    "name": "132k Syndicate Standing",
+    "category": [
+	  "Syndicate"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn",
+    "name": "100k Focus Collected",
+    "category": [
+	  "Focus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mars",
+    "name": "Forma'd and Maxed",
+    "category": [
+	  "Forma"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Rhu Manor",
+    "category": [
+      "Single",
+	  "Exterminate",
+	  "Techrot",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Mausoleum East",
+    "category": [
+      "Single",
+	  "Exterminate",
+	  "Scaldra",
+	  "Bonus",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Mischta Ramparts",
+    "category": [
+      "Endless",
+	  "Survival",
+	  "Scaldra",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Old Konderuk",
+    "category": [
+      "Endless",
+	  "Techrot",
+	  "Survival",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Kobinn West",
+    "category": [
+      "Endless",
+	  "Techrot",
+	  "Harvest",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Lower Vehrvod",
+    "category": [
+      "Single",
+	  "Scaldra",
+	  "Techrot",
+	  "Gambit",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Vehrvod District",
+    "category": [
+      "Single",
+	  "Scaldra",
+	  "Techrot",
+	  "Gambit",
+	  "Bonus",
+	  "1999"
+    ],
+  "requires": "|Public Matchmaking|"
+  },
+  {
+	"region": "1999",
+    "name": "Victory Plaza",
+    "victory": true,
+	"category": [
+      "Single",
+	  "Scaldra",
+	  "Assassination",
+	  "1999"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "1999",
+    "name": "Solstice Square",
+    "category": [
+      "Endless",
+	  "Defense",
+	  "Scaldra",
+	  "1999"
+    ],
+    "requires": "|Viktor's Comm Key|:3"
+  },
+  {
+	"region": "Pluto",
+    "name": "Sister-or-Lich Defeated",
+    "category": [
+      "Single",
+	  "Assassinate",
+	  "Railjack"
+    ],
+    "requires": "|Post-New War|"
+  },
+  {
+	"region": "Earth",
+    "name": "An Earth Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Venus",
+    "name": "A Venus Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mercury",
+    "name": "A Mercury Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "A Lua Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Mars",
+    "name": "A Mars Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Deimos",
+    "name": "A Deimos Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Ceres",
+    "name": "A Ceres Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Phobos",
+    "name": "A Phobos Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Jupiter",
+    "name": "A Jupiter Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Europa",
+    "name": "A Europa Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Saturn",
+    "name": "A Saturn Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Uranus",
+    "name": "A Uranus Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Neptune",
+    "name": "A Neptune Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Pluto",
+    "name": "A Pluto Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Eris",
+    "name": "An Eris Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Sedna",
+    "name": "A Sedna Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Kuva Fortress",
+    "name": "The Yuvan's Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "An Empty Nightmare",
+    "category": [
+      "Single",
+	  "Nightmare"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Earth",
+    "name": "Obstacle Course Completed",
+    "category": [
+	  "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Lua",
+    "name": "All Nightmares Defeated",
+    "category": [
+      "Bonus"
+    ],
+    "requires": ""
+  },
+  {
+	"region": "Void_D",
+    "name": "Ayatan Sculpture Found",
+    "category": [
+      "Ayatan",
+	  "Bonus",
+	  "Treasure"
+    ],
+    "requires": ""
+  }
+]
