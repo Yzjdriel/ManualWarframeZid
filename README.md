@@ -6,4 +6,10 @@ For now, the arsenal is heavily restricted, but otherwise progression is pretty 
 
 ## How To Use This Manual
 
-Download the latest release and put the .apworld into the custom_worlds folder in your AP installation.
+If you're running a game:
+1) Download the latest release
+2) Drag the.apworld into the custom_worlds folder in your AP installation.
+3) You're all set!
+
+If you're playing the manual (and aren't me):
+- Instructions aren't currently included in the files; ping me in the AP Discord and I'll run you through the quirks.
