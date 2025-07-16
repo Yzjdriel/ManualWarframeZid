@@ -12,4 +12,4 @@ If you're running the async:
 3) You're all set!
 
 If you're playing the slot (and aren't me):
-- Instructions aren't currently included in the files; ping me in the AP Discord and I'll run you through the quirks.
+- Instructions will be added to the files in the 1.5 release.
