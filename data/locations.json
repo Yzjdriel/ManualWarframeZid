@@ -172,7 +172,7 @@
       "Boss",
       "Grineer"
     ],
-    "requires": "|Vay Hek Key|:3"
+    "requires": "|Vay Hek Key:3|"
   },
   {
     "name": "Tikal",
@@ -361,7 +361,7 @@
       "Boss",
       "Corpus"
     ],
-    "requires": "|Jackal Key|:3"
+    "requires": "|Jackal Key:3|"
   },
   {
     "name": "M Prime",
@@ -476,7 +476,7 @@
       "Boss",
       "Grineer"
     ],
-    "requires": "|Captain Vor Key|:3"
+    "requires": "|Captain Vor Key:3|"
   },
   {
     "name": "Hellas",
@@ -563,7 +563,7 @@
       "Boss",
       "Grineer"
     ],
-    "requires": "|Lech Kril Key|:3"
+    "requires": "|Lech Kril Key:3|"
   },
   {
     "name": "Kadesh",
@@ -771,7 +771,7 @@
       "Infested",
       "Derelict"
     ],
-    "requires": "|Lephantis Key|:3"
+    "requires": "|Lephantis Key:3|"
   },
   {
     "name": "Boss Invasion",
@@ -780,7 +780,7 @@
       "Boss",
       "Infested"
     ],
-    "requires": "|Phorid Key|:3"
+    "requires": "|Phorid Key:3|"
   },
   {
     "name": "Terrorem",
@@ -804,7 +804,7 @@
       "Infested",
       "Derelict"
     ],
-    "requires": "|Zealoid Prelate Key|:3"
+    "requires": "|Zealoid Prelate Key:3|"
   },
   {
     "name": "Sanctum Anatomica",
@@ -879,7 +879,7 @@
       "Boss",
       "Murmur"
     ],
-    "requires": "|Whispers in the Walls|:3"
+    "requires": "|Whispers in the Walls:3|"
   },
   {
     "name": "Roche",
@@ -992,7 +992,7 @@
       "Boss",
       "Corpus"
     ],
-    "requires": "|The Sergeant Key|:3"
+    "requires": "|The Sergeant Key:3|"
   },
   {
     "region": "Phobos",
@@ -1192,7 +1192,7 @@
       "Boss",
       "Grineer"
     ],
-    "requires": "|Captain Vor Key|:3 AND |Lech Kril Key|:3"
+    "requires": "|Captain Vor Key:3| AND |Lech Kril Key:3|"
   },
   {
     "name": "Abyssal Zone",
@@ -1272,7 +1272,7 @@
       "Corpus",
       "Sentient"
     ],
-    "requires": "|Ropalolyst Key|:3"
+    "requires": "|Ropalolyst Key:3|"
   },
   {
     "name": "Themisto",
@@ -1284,7 +1284,7 @@
       "Corpus",
       "Bonus"
     ],
-    "requires": "|Alad V Key|:3"
+    "requires": "|Alad V Key:3|"
   },
   {
     "name": "Thebe",
@@ -1534,7 +1534,7 @@
       "Boss",
       "Corpus"
     ],
-    "requires": "|Raptor Key|:3"
+    "requires": "|Raptor Key:3|"
   },
   {
     "region": "Europa",
@@ -1749,7 +1749,7 @@
       "Boss",
       "Grineer"
     ],
-    "requires": "|Sargas Ruk Key|:3"
+    "requires": "|Sargas Ruk Key:3|"
   },
   {
     "name": "Sycorax",
@@ -1928,7 +1928,7 @@
       "Sharkwing",
       "Bonus"
     ],
-    "requires": "|Tyl Regor Key|:3"
+    "requires": "|Tyl Regor Key:3|"
   },
   {
 	"region": "Neptune",
@@ -2087,7 +2087,7 @@
 	  "Boss",
 	  "Corpus"
     ],
-    "requires": "|Hyena Pack Key|:3"
+    "requires": "|Hyena Pack Key:3|"
   },
   {
 	"region": "Void_C",
@@ -2188,7 +2188,7 @@
 	  "Corpus",
 	  "Bonus"
     ],
-    "requires": "|Ambulas Key|:3 AND |Animo Nav Beacon|"
+    "requires": "|Ambulas Key:3| AND |Animo Nav Beacon|"
   },
   {
 	"region": "Pluto",
@@ -2406,7 +2406,7 @@
 	  "Boss",
 	  "Infested"
     ],
-    "requires": "|Jordas Golem Key|:3"
+    "requires": "|Jordas Golem Key:3|"
   },
   {
 	"region": "Sedna",
@@ -2566,7 +2566,7 @@
 	  "Grineer",
 	  "Bonus"
     ],
-    "requires": "|Kela de Thaym Key|:3 AND |5 Judgement Points|:5"
+    "requires": "|Kela de Thaym Key:3| AND |5 Judgement Points:5|"
   },
   {
 	"region": "Void_D",
@@ -4072,7 +4072,7 @@
 	  "Scaldra",
 	  "1999"
     ],
-    "requires": "|Viktor's Comm Key|:3"
+    "requires": "|Viktor's Comm Key:3|"
   },
   {
 	"region": "Pluto",
