@@ -116,7 +116,9 @@
     "requires": []
   },
   "Kuva Fortress": {
-    "connects_to": [],
+    "connects_to": [
+      "Zariman"
+    ],
     "requires": "|Kuva Fortress Access Codes| AND |Post-War Within| AND |Post-Archwing|"
   },
   "Zariman": {
